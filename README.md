@@ -1,8 +1,5 @@
 # <center>说明文档</center>
 
-<center>19520107 王子轩</center>
-
-
 <p style="page-break-before:always"></p>
 
 ## 1. 项目要求
