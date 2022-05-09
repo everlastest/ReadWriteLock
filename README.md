@@ -2,7 +2,6 @@
 
 <center>19520107 王子轩</center>
 
-[TOC]
 
 <p style="page-break-before:always"></p>
 
@@ -243,7 +242,7 @@ public void acquireWriteLock()
 
 ### 4.2 测试结果
 
-​	<img src="D:\文件\课程\.net\测试\期中作业\image\image-20220506161234036.png" alt="image-20220506161234036" style="zoom: 67%;" />
+![测试结果](/image/image-20220506161234036.png "Magic Gardens")
 
 ### 4.3 结果分析
 
